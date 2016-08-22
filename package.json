@@ -1,5 +1,5 @@
 {
-  "name": "jest-demo",
+  "name": "jest-specify-test-dir-demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,8 @@
   "devDependencies": {
     "jest": "^14.1.0",
     "jest-cli": "^14.1.0"
+  },
+  "jest": {
+    "testDirectoryName": "spec"
   }
 }
