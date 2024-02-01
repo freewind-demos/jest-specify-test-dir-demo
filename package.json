@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^14.1.0",
-    "jest-cli": "^14.1.0"
+    "jest": "14.1.0",
+    "jest-cli": "14.1.0"
   },
   "jest": {
     "testDirectoryName": "spec"
